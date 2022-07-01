@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Samrat Bandalakunta</h1>
-<img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580975837-LGDSGDVK6EI6PD4KK4W5/python-2.gif" alt="">
+<img style = "width: 50%; height:300px" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580975837-LGDSGDVK6EI6PD4KK4W5/python-2.gif" alt="">
 <h3 align="center">A passionate, hardworking and highly efficient web developer with sound knowledge in Full Stack technology and hands-on practice in Data Structure and Algorithms.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samratb963&label=Profile%20views&color=0e75b6&style=flat" alt="samratb963" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SamratB963&label=Profile%20views&color=0e75b6&style=flat" alt="SamratB963" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@samratb963" target="blank"><img src="https://img.shields.io/twitter/follow/@samratb963?logo=twitter&style=for-the-badge" alt="@samratb963" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@SamratB963" target="blank"><img src="https://img.shields.io/twitter/follow/@samratb963?logo=twitter&style=for-the-badge" alt="@SamratB963" /></a> </p>
 
 - 📫 How to reach me **samratkrishna345@gmail.com**
 
