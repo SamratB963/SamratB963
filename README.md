@@ -60,7 +60,7 @@
 
 <div>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=SamratB963&theme=radical&count_private=true" alt="SamratB963" height="250px" width="47%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=SamratB963&show_icons=true&theme=radical&count_private=true" height="255px" width="47%"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=SamratB963&show_icons=true&theme=radical&count_private=true height="255px" width="47%"/>
 <div>
   </br>
   
