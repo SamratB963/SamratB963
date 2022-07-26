@@ -59,14 +59,14 @@
   ## 📉📊 GitHub Stats...
 
 <div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=samratb963&theme=radical" alt="SamratB963" height="250px" width="47%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=samratb963&show_icons=true&theme=radical" height="255px" width="47%"/>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=SamratB963&theme=radical" alt="SamratB963" height="250px" width="47%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=SamratB963&show_icons=true&theme=radical" height="255px" width="47%"/>
 <div>
   </br>
   
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samratb963&theme=radical&langs_count=8" alt="SamratB963" height="260px" width="25%" />
-  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=samratb963&theme=gruvbox&hide_border=true&area=true" height="255px" width="70%"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamratB963&theme=radical&langs_count=8" alt="SamratB963" height="260px" width="25%" />
+  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=SamratB963&theme=gruvbox&hide_border=true&area=true" height="255px" width="70%"/>
 <div>
 
 
