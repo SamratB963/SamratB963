@@ -41,10 +41,10 @@
 ## 🤖👾 My Projects...
 
 <p dir="auto">
-<a href="https://github.com/SamratB963/Unsplash-Clone.git"><img src="https://designlab.wisc.edu/wp-content/uploads/sites/548/2021/02/UNSPLASH-Logo.png" alt="unsplash" style="width: 20%; height: 45px;"></a>&nbsp;&nbsp;<br>
-<a href="https://github.com/SamratB963/Big-Basket.git"><img src="http://litebite.in/wp-content/uploads/2020/07/bb2.png" alt="bigbasket" style="width: 20%; height: 45px"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href=https://pharmeasy-webclone.netlify.app/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/PharmEasy_logo.png" alt="pharmeasy" style="width: 20%; height: 45px;"></a>&nbsp;&nbsp;<br><br>
+<a href="https://bigbasket-clone26.netlify.app/"><img src="https://image4.owler.com/logo/bigbasket_owler_20190729_092819_original.jpg" alt="Fabbag" style="width: 20%; height: 45px;"></a>&nbsp;&nbsp;<br>
 </p>
-<a href="https://github.com/SamratB963/fabbagclone.git"><img src="https://cdn.shopify.com/s/files/1/0052/7551/6995/files/FABBAG-LOGO_96ac9306-4c81-4ab8-8d2b-4e818eed7f76_2048x.png?v=1606482289" alt="Fabbag" style="width: 20%; height: 45px;"></a>&nbsp;&nbsp;<br>
+<a href="https://fraazo-website-clone.netlify.app/"><img src="https://globalprimenews.com/wp-content/uploads/2020/05/Fraazo-Logo.png" alt="fraazo" style="width: 20%; height: 45px"></a>&nbsp;&nbsp;&nbsp;&nbsp;<br>
 
 ## 📧📫 Find me at...
 
