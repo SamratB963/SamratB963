@@ -38,7 +38,7 @@
 
 <br/>
 
-## 🤖👾 My Projects...
+## 🤖👾 Some of my Projects...
 
 <p dir="auto">
 <a href=https://pharmeasy-webclone.netlify.app/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/PharmEasy_logo.png" alt="pharmeasy" style="width: 20%; height: 45px;"></a>&nbsp;&nbsp;<br><br>
