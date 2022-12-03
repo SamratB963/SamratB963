@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samrat Bandalakunta</h1>
 <img src="https://quasa.io/storage/photos/%D0%A4%D0%BE%D1%82%D0%BE%2014/%D0%B0%D0%BA%D0%BE%D0%B4%202.jpeg" alt="">
-<h3 align="center">A passionate and hardworking  web developer with sound knowledge in Full Stack technology and Data Structure and Algorithms.</h3>
+<h3 align="center">An aspiring full-stack web developer with a specialization in MERN
+stack, with a keen interest in developing user-friendly platforms.</h3>
 
 <hr>
 
