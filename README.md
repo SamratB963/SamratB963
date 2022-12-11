@@ -10,7 +10,7 @@ stack, with a keen interest in developing user-friendly platforms.</h3>
 - 📖 I'm currently looking for a job in MERN-Stack technologies .
 - 👀 Keen to build and develop high-quality user-friendly platforms by using my technical knowledge and skills.
 - 👩‍ Eager to obtain a challenging position at a dynamic company to enhance my learning and contribute to exciting projects.
-- 👨‍💻 Know more about me <a href="https://samrat-portfolio1.netlify.app/">Portfolio</a>
+- 👨‍💻 Know more about me <a href="https://samrat-portfolio1.netlify.app/">My Portfolio</a>
 - 📫 How to reach me via Mail samratkrishna345@gmail.com
 - ⚡Fun fact: I love reading books and playing Cricket.
 
